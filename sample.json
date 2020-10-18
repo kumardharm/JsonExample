@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Windows Server 2020"
+   
+  },
+  {
+    "id": 2,
+    "title": "Linux Server"
+   
+  },
+  {
+    "id": 3,
+    "title": "Windows Server 2010"
+   
+  },
+  {
+    "id": 4,
+    "title": "Mac Server"
+  }
+ ]
